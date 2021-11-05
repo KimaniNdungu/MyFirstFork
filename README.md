@@ -1,3 +1,7 @@
+##Kimani
+Institution: KALRO-Njoro
+Git is a very useful tool
+
 ## Lmelias
 
 Instituition: icipe
